@@ -1,0 +1,11 @@
+
+
+.forgot-password-bg-container {
+    background-image: url(../../../public/Final\ BG.svg);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+
+}
